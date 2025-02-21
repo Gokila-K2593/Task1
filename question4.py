@@ -8,4 +8,4 @@ b=a^b
 a=a^b
 print("Before swapping")
 print("a=",a)
-print("b=",b)
+print("b=",b)  
