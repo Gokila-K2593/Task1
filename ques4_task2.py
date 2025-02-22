@@ -7,5 +7,6 @@ for i in range(a,b+1):
             if i%j==0:
                 count=count+1
         if count==2:
-             print(i)  
-        count=0   
+             print(i)
+        count=0  
+        
